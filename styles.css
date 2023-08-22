@@ -1,10 +1,10 @@
 @import url(styles/header.css);
 
 :root{
-    --cor-de-fundo: #dd5499;
+    --cor-de-fundo: #880f4c;
     --branco: #ffffff;
     --amarelo: #ffffff;
-    --roxo: #dd5499;      
+    --roxo: #880f4c;
     --roxo-degrade: linear-gradient(94.49deg, #000000 35.48%, #000000 143.32%);
     --preto: #000000;
     --fonte-roboto: 'Roboto', sans-serif;
