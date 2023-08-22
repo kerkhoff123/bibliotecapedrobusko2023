@@ -5,7 +5,7 @@
     --branco: #ffffff;
     --amarelo: #ffffff;
     --roxo: #ffffff;      
-    --roxo-degrade: linear-gradient(94.49deg, #ffffff 35.48%, #f7f7f7 143.32%);
+    --roxo-degrade: linear-gradient(94.49deg, #000000 35.48%, #000000 143.32%);
     --preto: #000000;
     --fonte-roboto: 'Roboto', sans-serif;
     --fonte-principal: 'Poppins', sans-serif;
